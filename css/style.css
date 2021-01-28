@@ -94,7 +94,7 @@ img {
     padding-top: 60px;
 }
 .pt-10 {
-    padding-top: 10px;
+    padding-top: 1f0px;
 }
 .pb-60 {
     padding-bottom: 60px;
@@ -1236,6 +1236,7 @@ ul.social-network li {
         transform: translate3d(0, 0, 0)
     }
 }
+**/
 .container-fluid {
     padding-right: 30px;
     padding-left: 30px;
@@ -1260,7 +1261,6 @@ hr {
     margin-bottom: -20px;
     border: 0;
 }
-**/
 
 
 /*** Section styles ***/
