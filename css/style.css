@@ -1216,6 +1216,7 @@ ul.social-network li {
     display: inline;
     padding-right: 5px;
 }
+/**
 @media screen and (max-width:768px) {
     .team .desc {
         opacity: 1;
@@ -1256,6 +1257,7 @@ hr {
     margin-bottom: -20px;
     border: 0;
 }
+**/
 
 
 /*** Section styles ***/
