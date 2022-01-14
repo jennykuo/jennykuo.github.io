@@ -1712,7 +1712,7 @@ hr {
   /* Stay in place */
   z-index: 1;
   /* Sit on top */
-  padding-top: 100px;
+  padding-top: 125px;
   /* Location of the box */
   left: 0;
   top: 0;
@@ -1763,7 +1763,7 @@ hr {
 
 .close {
   position: absolute;
-  top: 15px;
+  top: 100px;
   right: 35px;
   color: #f1f1f1;
   font-size: 40px;
