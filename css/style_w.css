@@ -652,6 +652,10 @@ body.offcanvas {
 .addo-post img {
     padding-bottom: 30px;
 }
+.circ-square-img { 
+    border-radius: 50%; 
+    width: 75%;
+}
 /*Post Comment */
 .comments-area {
     padding: 30px 0;
