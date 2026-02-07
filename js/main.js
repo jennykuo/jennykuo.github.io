@@ -70,11 +70,11 @@
             , logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'images/logo-dark.png');
+            logo.attr('src', 'images/logo-dark-jk.png');
         }
         else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'images/logo-light.png');
+            logo.attr('src', 'images/logo-light-jk.png');
         }
     });
     // Close navbar-collapse when a  clicked
